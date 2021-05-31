@@ -18,7 +18,7 @@ module "datadog_web_serverfarms" {
   customer_name = "mycustomer"
   customer_id   = 1234
   asset_lbnref  = 1234
-  asset_name    = mydatabases
+  asset_name    = mywebserverfarms
 }
 ```
 
